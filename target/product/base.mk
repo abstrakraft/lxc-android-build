@@ -145,5 +145,6 @@ PRODUCT_PACKAGES += \
     tc \
     toolbox \
     vdc \
-    vold
+    vold \
+    lxc
 
